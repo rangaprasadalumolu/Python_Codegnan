@@ -5,8 +5,8 @@
 account_table={12345:1357,
                67890:2468}
 
-users_table={12345:[1000,'Prasad','prasad@gmail.com'],
-             67890:[500,'Chintu','chintu7@gmail.com']}
+users_table={12345:[1000,'Abc','abc@gmail.com'],
+             67890:[500,'Xyz','xyz@gmail.com']}
 
 #functions
 #login function
@@ -118,4 +118,5 @@ if __name__=="__main__":
             logout()
         else:
             print("Please enter a valid operation (1-6).")
+
 
