@@ -6,6 +6,7 @@ account_table = {
 }
 
 users_table = {
-    12345: [1000, 'Prasad', 'prasad@gmail.com'],
-    67890: [500, 'Chintu', 'chintu7@gmail.com']
+    12345: [1000, 'Abc', 'abc@gmail.com'],
+    67890: [500, 'Xyz', 'xyz@gmail.com']
 }
+
